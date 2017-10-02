@@ -74,6 +74,11 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 
+<<<<<<< HEAD:BattleTank/.gitignore
+=======
+# StarterContent
+StarterContent/*
+>>>>>>> bb4fd41a74e910ace4d4bdbefc3a8f99ea8f32c0:.gitignore
 
 # Cache files for the editor to use
 DerivedDataCache/*
